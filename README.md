@@ -18,4 +18,7 @@ A simple, interactive command-line application that allows users to browse a men
 1. Ensure you have Python installed.
 2. Clone this repository:
    ```bash
-   git clone [https://github.com/koumpara-codes/food-order-system.git](https://github.com/koumpara-codes/food-order-system.git)
+   git clone https://github.com/koumpara-codes/food-order-system.git
+   cd food-order-system
+   python food_order_system.py
+   ```
